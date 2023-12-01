@@ -1,17 +1,19 @@
 <h1 align="center">Hi, we're Tech Cavern</h1>
-<h3 align="center">We're mostly student and beginner programmers with a passion for IT</h3>
+<h3 align="center">We're mostly student and beginner programmers with a passion for IT and design</h3>
 
-- 🔭 Our team currently consists of just two people, **Josie and Lucy**
+- 🔭 Our team currently consists of just three people, **Lucy**, **Sayo**, and **Josie**
 
 - 🌱 We are currently learning a bunch of languages and tricks like **Python, Java, Webdev, TS, and more!**
 
+- 🌲 We're actively developing [Lynx's Cookbook](https://github.com/Tech-Cavern/LynxCookbook), a bot for Honkai Star Rail, and written stories within [Luniks' Worlddev](https://github.com/JosieOnGit/Luniks)
+
 - 📝 We made a roulette program for [Apex Legends](https://github.com/Tech-Cavern/ApexStratRoulette)
 
-- 📝 We work on more than just code, such as **Visual Arts, spoken languages and writing scripts, and more!**
+- 📝 We work on more than just code, such as **Visual Arts, spoken languages and writing scripts, Graphic Design and Media Production, and more!**
 
 - 💬 Ask us about **that Apex roulette!**
 
-- 🎵 We have a [Spotify playlist](https://open.spotify.com/playlist/60Iu1VWqZtSvnxXrVchHEl) that's nearing the maximum amount of tracks
+- 🎵 We have a [Spotify playlist](https://open.spotify.com/playlist/60Iu1VWqZtSvnxXrVchHEl) that hit the max amount of songs
 
 - 📫 You can reach us at **techcavern22@gmail.com**
 
@@ -19,7 +21,7 @@
 <h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://twitter.com/techcavern" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techcavern" height="30" width="40" /></a>
-<a href="https://instagram.com/theblackcatms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theblackcatms" height="30" width="40" /></a>
+<a href="https://instagram.com/josieoninsta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josieoninsta" height="30" width="40" /></a>
 </p>
 
 
